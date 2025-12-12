@@ -1,0 +1,5 @@
+{
+  "name": "EventCraft",
+  "description": "A no-code generative AI platform for creating professional event posters using Google Gemini 2.5.",
+  "requestFramePermissions": []
+}
